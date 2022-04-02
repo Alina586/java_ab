@@ -1,7 +1,4 @@
 package ru.stqa.ab.sandbox;
-
-import java.sql.SQLOutput;
-
 import static ru.stqa.ab.sandbox.Point.distance;
 
 public class MyFirstProgram {
